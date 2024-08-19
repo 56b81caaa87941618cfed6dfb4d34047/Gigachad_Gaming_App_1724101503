@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the bright pink color, do you have a specific shade or hex code in mind to ensure we match your vision exactly?\", \"option1\": \"Yes, I will provide the specific shade/hex code.\", \"option2\": \"No, please feel free to choose a vibrant bright pink shade that fits the theme.\"}, {\"question 2\": \"Regarding the glassmorphism effect, how pronounced would you like the blur effect to be on these divs? Would you prefer a subtler appearance or a more pronounced, frosted-glass look?\", \"option1\": \"I prefer a subtler, barely-there blur effect.\", \"option2\": \"Opt for a pronounced, frosted-glass look that stands out.\"}], \"input_token_count\": 711, \"output_token_count\": 160, \"time_taken\": \"0:00:13.040536\"}",
+        "message_id": "guest19082024211524",
+        "timestamp": "19082024211539",
+        "component_file_name": "simple_hero_component_1724101506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I will add beveled edges and glassmorphism to your bright pink design with div outlines.",
         "message_id": "guest19082024211524",
