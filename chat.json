@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement glassmorphic design elements throughout the app for a cohesive and modern aesthetic.\", \"checked\": true}, {\"feature\": \"Add dynamic shadows and beveled edges to UI components for depth and visual interest.\", \"checked\": true}, {\"feature\": \"Incorporate a color scheme with varying shades of pink for brand consistency and visual appeal.\", \"checked\": true}, {\"feature\": \"Update and expand placeholder content to better represent Scotty's Gigachad game, including lore, gameplay mechanics, and character bios.\", \"checked\": true}, {\"feature\": \"Integrate an interactive tutorial for new users to learn how to swap tokens using the Uniswap-style widget.\", \"checked\": false}, {\"feature\": \"Develop a 'Meet the Characters' section with animated graphics and short introductions, enhancing the game's storytelling.\", \"checked\": false}], \"input_token_count\": 422, \"output_token_count\": 187, \"time_taken\": \"0:00:17.031459\"}",
+        "message_id": "guest19082024210915",
+        "timestamp": "19082024210933",
+        "component_file_name": "simple_cta_component_1724101506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the glassmorphic styles on the divs, would you prefer a more subtle or pronounced effect in terms of blur and transparency?\", \"option1\": \"Subtle effect with lower blur and transparency\", \"option2\": \"Pronounced effect with higher blur and transparency\"}, {\"question 2\": \"Regarding the beveled edges and shadows, should they contribute to a sleek and modern look or a more pronounced and bold statement?\", \"option1\": \"Sleek and modern with minimal shadows and light bevel\", \"option2\": \"Pronounced and bold with deep shadows and noticeable bevel\"}], \"input_token_count\": 468, \"output_token_count\": 137, \"time_taken\": \"0:00:07.402100\"}",
         "message_id": "guest19082024210915",
