@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nreplace this componetn. with uniswap-style crypto swapping widget for buying into scottys gigachad coin, with options for placholder tokens to buy in with (swapping eth for example, with scottycoin)"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: replace this componetn. with uniswap-style crypto swapping widget for buying into scottys gigachad coin, with options for placholder tokens to buy in with (swapping eth for example, with scottycoin)\nAI: Affirmative response: \"Absolutely, integrating a Uniswap-style widget for Gigachad coin purchases with multiple token options.\"\nUser: generate an image of a gaming dinosaur with shining bitcoin scales \nAI: Great idea! I'll work on generating an image of a gaming dinosaur with shining bitcoin scales.\nUser: give more details aorund the divs with glassmorphic styles and beveled edges and shadows and pink shades and more placeholder content about scottys gigachad game\n\nThis is the user's current request of changes to be made:\ngive more details aorund the divs with glassmorphic styles and beveled edges and shadows and pink shades and more placeholder content about scottys gigachad game"
     }
 ]
