@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a static image or an animated image for the gaming dinosaur with shining bitcoin stegosaurus spines?\", \"option1\": \"Static image\", \"option2\": \"Animated image\"}, {\"question 2\": \"For the integration of this new image, should we prioritize visual compatibility with the existing glassmorphic style, beveled edges, and pink shades or focus on making the dinosaur the highlight of the component?\", \"option1\": \"Prioritize visual compatibility with existing design elements\", \"option2\": \"Focus on highlighting the dinosaur\"}], \"input_token_count\": 602, \"output_token_count\": 125, \"time_taken\": \"0:00:03.782071\"}",
+        "message_id": "guest19082024211055",
+        "timestamp": "19082024211100",
+        "component_file_name": "simple_hero_component_1724101506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Noted, I will replace the image with the requested one.",
         "message_id": "guest19082024211055",
