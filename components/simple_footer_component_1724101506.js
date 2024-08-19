@@ -1,6 +1,6 @@
 Vue.component("simple_footer_component_1724101506", {
     template: `
-    <div id="footer-section" class="flex-1 bg-white dark:bg-gray-800 p-6">
+    <div id="footer-section" style="min-height: 390px" class="flex-1 bg-white dark:bg-gray-800 p-6">
         <div id="footer-container" class="max-w-md mx-auto bg-gray-100 dark:bg-gray-700 rounded-xl shadow-lg p-6">
             <h2 class="text-2xl font-bold text-center mb-4 text-gray-800 dark:text-white">Swap for ScottyCoin</h2>
             <div class="mb-4">
