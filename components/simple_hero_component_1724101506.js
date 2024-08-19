@@ -25,6 +25,14 @@ Vue.component("simple_hero_component_1724101506", {
                             <a id="hero-button-2" href="https://www.figma.com/community/file/1125744163617429490" class="flex-1  items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Explore Games</a>
                         </div>
                     </div>
+
+                    <div id="newsletter-signup" class="mt-8 mb-8">
+                        <div class="flex items-center max-w-md mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
+                            <input type="email" class="flex-1 py-4 px-6 text-gray-700 focus:outline-none" placeholder="Enter your email">
+                            <button class="bg-blue-500 text-white px-6 py-4 hover:bg-blue-600 focus:outline-none">Subscribe</button>
+                        </div>
+                    </div>
+
                     
                 </div>
                 <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
