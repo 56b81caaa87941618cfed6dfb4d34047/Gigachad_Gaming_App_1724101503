@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "give more details aorund the divs with glassmorphic styles and beveled edges and shadows and pink shades and more placeholder content about scottys gigachad game",
+        "message_id": "guest19082024210915",
+        "timestamp": "19082024210915",
+        "component_file_name": "simple_cta_component_1724101506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! I'll work on generating an image of a gaming dinosaur with shining bitcoin scales.",
         "message_id": "guest19082024210747",
