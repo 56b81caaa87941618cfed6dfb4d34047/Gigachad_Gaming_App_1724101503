@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Should the crypto-swapping widget support automatic conversion rates display for the selected placeholder tokens (e.g., ETH) into ScottyCoin, or would you prefer manual entry of conversion rates?\", \"option1\": \"Automatic conversion rates display\", \"option2\": \"Manual entry of conversion rates by the admin\"}, {\"question 2\": \"Do you need the widget to integrate with a specific crypto wallet or exchange service for the swapping process, or should it be a more generalized solution that can work with multiple services?\", \"option1\": \"Integrate with a specific service\", \"option2\": \"Generalized solution for multiple services\"}], \"input_token_count\": 318, \"output_token_count\": 140, \"time_taken\": \"0:00:05.437022\"}",
+        "message_id": "guest19082024210637",
+        "timestamp": "19082024210644",
+        "component_file_name": "simple_footer_component_1724101506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate real-time crypto price charts for Scottycoin and placeholder tokens\", \"checked\": true}, {\"feature\": \"Implement a transaction history feature to track past swaps and investments\", \"checked\": false}, {\"feature\": \"Add a 'Favorites' feature to quickly access preferred placeholder tokens\", \"checked\": true}, {\"feature\": \"Introduce advanced security features such as 2FA for transactions\", \"checked\": false}, {\"feature\": \"Incorporate a wallet connectivity option for popular wallets like MetaMask or Trust Wallet\", \"checked\": true}, {\"feature\": \"Enable push notifications for transaction confirmations and significant price changes\", \"checked\": false}], \"input_token_count\": 272, \"output_token_count\": 137, \"time_taken\": \"0:00:05.370340\"}",
         "message_id": "guest19082024210637",
