@@ -1,6 +1,6 @@
 Vue.component("simple_footer_component_1724101506", {
     template: `
-    <div id="footer-section" style="min-height: 510px" class="flex-1 bg-gradient-to-br from-pink-200 to-pink-400 p-6">
+    <div id="footer-section" style="min-height: 590px"  class="flex-1 bg-gradient-to-br from-pink-200 to-pink-400 p-6">
         <div id="footer-container" class="max-w-md mx-auto bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-xl shadow-lg p-8 border border-pink-300">
             <h2 class="text-3xl font-bold text-center mb-6 text-pink-800">Swap for ScottyCoin</h2>
             <p class="text-pink-700 mb-4 text-center">Join Scotty's Gigachad Game and become the ultimate crypto dinosaur!</p>
