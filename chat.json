@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the glassmorphic styles on the divs, would you prefer a more subtle or pronounced effect in terms of blur and transparency?\", \"option1\": \"Subtle effect with lower blur and transparency\", \"option2\": \"Pronounced effect with higher blur and transparency\"}, {\"question 2\": \"Regarding the beveled edges and shadows, should they contribute to a sleek and modern look or a more pronounced and bold statement?\", \"option1\": \"Sleek and modern with minimal shadows and light bevel\", \"option2\": \"Pronounced and bold with deep shadows and noticeable bevel\"}], \"input_token_count\": 468, \"output_token_count\": 137, \"time_taken\": \"0:00:07.402100\"}",
+        "message_id": "guest19082024210915",
+        "timestamp": "19082024210924",
+        "component_file_name": "simple_cta_component_1724101506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll work on integrating glassmorphic style, beveled edges, shadows, and pink shades into the divs with placeholder content about \"Scotty's Gigachad Game\".",
         "message_id": "guest19082024210915",
