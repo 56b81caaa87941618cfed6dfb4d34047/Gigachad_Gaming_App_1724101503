@@ -3,7 +3,7 @@
 - To the right: There is an image relevant to the app.
 */
 Vue.component("simple_hero_component_1724101506", {
-    template: `
+    template: ``
         <section id="hero-section" style="min-height: 390px" class="bg-white dark:bg-gray-900 flex-1">
             <div id="hero-container" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
@@ -28,7 +28,7 @@ Vue.component("simple_hero_component_1724101506", {
                     
                 </div>
                 <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img id="hero-image" src="./images/hero.png" alt="hero image">
+                    <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Gigachad_Gaming_App_1724101503/main/images/bd4789bdd2c74d988c7589858dc11d2f.jpeg" alt="hero image">
                 </div>
             </div>
         </section>            
