@@ -28,7 +28,7 @@ Vue.component("simple_hero_component_1724101506", {
                     
                 </div>
                 <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                    <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Gigachad_Gaming_App_1724101503/main/images/bd4789bdd2c74d988c7589858dc11d2f.jpeg" alt="hero image">
+                    <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Gigachad_Gaming_App_1724101503/main/images/a3d78dd4e9114914bf092506f935e5ff.jpeg" alt="hero image">
                 </div>
             </div>
         </section>            
