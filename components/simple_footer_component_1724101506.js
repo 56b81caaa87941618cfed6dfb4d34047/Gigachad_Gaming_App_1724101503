@@ -15,7 +15,7 @@ Vue.component("simple_footer_component_1724101506", {
                 </div>
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        © 2023 Scotty's GigaChad Gaming. Level up your game, dominate the leaderboards.
+                        © 2025 Scotty's GigaChad Gaming Platform. Level up your game, dominate the leaderboards.
                     </div>
                 </div>
             </div>
